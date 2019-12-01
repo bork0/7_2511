@@ -1,0 +1,17 @@
+button {
+    margin: 10;
+}
+
+.customText {
+    font-family: 'Comic Sans MS',sans-serif;
+    font-size: 20px;
+    color: orange;
+}
+
+.buttons {
+    min-height: 100px;
+}
+
+.yellowDiv {
+    background-color: yellow;
+}
